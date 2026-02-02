@@ -2,7 +2,7 @@
 
 A simple yet powerful Command Line Interface (CLI) tool built with **Python** and **SQLite** to manage and track cryptocurrency investments.
 
-# ❗ [IMPORTANT] Disclaimer: This project is built strictly for educational purposes. It is a tool designed to demonstrate database management and Python logic. Do not use it as your primary source of financial tracking for real investments.
+## ❗ [IMPORTANT] Disclaimer: This project is built strictly for educational purposes. It is a tool designed to demonstrate database management and Python logic. Do not use it as your primary source of financial tracking for real investments.
 
 ## Features
 - **Add Assets**: Save your coin purchases with quantity and buy price.
