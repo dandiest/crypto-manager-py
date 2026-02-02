@@ -12,7 +12,7 @@ A simple yet powerful Command Line Interface (CLI) tool built with **Python** an
 - **Clean UI**: Formatted tables for easy reading.
 
 ## How to use ❓
-1. Clone the repository: `git clone https://github.com/dandiest/CryptoPortfolioManager.git`
+1. Clone the repository: `git clone https://github.com/dandiest/crypto-manager-py.git`
 2. Run the script: `python crypto_manager.py`
 3. Follow the on-screen menu.
 
